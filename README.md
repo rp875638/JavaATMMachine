@@ -4,7 +4,7 @@
  When we insert card to ATM Machine it ask us to enter our pin. 
  If the pin is wrong then it don't allow to use ATM Machine and If we enter correct pin then it show us menu to us
  - Withdraw fund
- - Tranfer fund
+ - Transfer fund
  - Show transaction history
  - Change pin
  - In ATM deposit Machine it allow us to deposit money
